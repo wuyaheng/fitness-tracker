@@ -97,10 +97,6 @@ input {
   background: linear-gradient(to bottom, #ffffff 0%, #e5e5e5 100%);
 }
 
-.wrapper {
-  background-color: #f2f8ff;
-  padding-bottom: 100px;
-}
 
 .card.m-auto,
 .m-auto {
@@ -202,16 +198,6 @@ form::after {
   display: none;
 }
 
-button {
-  display: block;
-  border: none;
-  cursor: pointer;
-  font-size: 1rem;
-  border-radius: 6px;
-  border: 1px solid #aaa;
-  padding: 10px;
-  background: linear-gradient(to bottom, #ffffff 0%, #e5e5e5 100%);
-}
 
 #toast {
   border-radius: 4px;
@@ -382,6 +368,16 @@ form > button {
 .buttons .ui.button {
   margin: 0;
   width: 50%;
+}
+
+#continue-btn {
+  padding-bottom: 0em !important;
+  padding-top: 1em !important;
+}
+
+#newwork-btn {
+  padding-bottom: 0em !important;
+  padding-top: 1em !important;
 }
 
 .ui.card h2 {
