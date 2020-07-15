@@ -19,7 +19,7 @@ Fitness Tracker is a full stack web application that tracks users’ fitness ove
 Chart.js, MongoDB, Express, JavaScript
 
 ## Link
-https://yes-fitness-tracker.herokuapp.com/
+https://yes-fitness-tracker.herokuapp.com/?id=5f0e65d80569a1a9e8cc4378
 
 ## Usage
 Click "add new exercise" to start.
